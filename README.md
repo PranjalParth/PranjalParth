@@ -64,13 +64,6 @@ I’m a BCA student interested in building **data-driven systems, intelligent ap
 
 `Data Structures & Algorithms` • `Data Engineering` • `Machine Learning` • `Backend Development` • `Databases` • `Distributed Systems` • `Cloud Computing` • `System Design`
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Pranjal's GitHub Stats" />
-</p>
 
 ---
 
