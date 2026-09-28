@@ -69,7 +69,7 @@ I’m a BCA student interested in building **data-driven systems, intelligent ap
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalParth&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranjal's GitHub Stats" />
+  <img src="./profile/stats.svg" alt="Pranjal's GitHub Stats" />
 </p>
 
 ---
